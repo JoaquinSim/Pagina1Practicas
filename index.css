@@ -13,7 +13,7 @@ body {
 header {
     width: 100%;
     height: 640px;
-    background-image: url('../Index/Imagenes/portadaEducAula.jpg');
+    background-image: url('./Imagenes/portadaEducAula.jpg');
     background-size: contain;
     background-attachment: fixed;
     position: relative;
