@@ -1,0 +1,31 @@
+.titulo {
+    color: #32406F;
+    font-size: 50px;
+    font-family: 'Copperplate', Copperplate Gothic Light, fantasy;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+header {
+    width: 100%;
+    height: 640px;
+    background-image: url('../Index/Imagenes/portadaEducAula.jpg');
+    background-size: contain;
+    background-attachment: fixed;
+    position: relative;
+}
+
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+
+header .texto-encabezado{
+    display: flex;
+    height: 600px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
